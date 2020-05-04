@@ -1,1 +1,1 @@
-nvim -d fibonacci_bidirectional.py fib2.py +"colorscheme apprentice"
+nvim -d fib1.py fib2.py +"colorscheme apprentice"

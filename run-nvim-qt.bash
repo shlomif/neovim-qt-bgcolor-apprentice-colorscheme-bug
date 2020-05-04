@@ -1,1 +1,1 @@
-nvim-qt -- -d fibonacci_bidirectional.py fib2.py +"colorscheme apprentice"
+nvim-qt -- -d fib1.py fib2.py +"colorscheme apprentice"
